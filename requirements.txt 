@@ -1,0 +1,4 @@
+numpy
+openpyxl
+matplotlib
+sqlite3   # comes with Python, no need to install

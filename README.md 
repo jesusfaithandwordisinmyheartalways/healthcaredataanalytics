@@ -1,0 +1,35 @@
+# Healthcare Practice Analytics
+
+## Overview
+This project analyzes a synthetic dataset of healthcare practices using Python (NumPy), SQL, and Tableau. 
+
+## Structure
+- `data/` - Excel dataset
+- `notebooks/` - NumPy EDA
+- `scripts/` - Data cleaning scripts
+- `sql/` - Sample SQL queries
+- `tableau/` - Dashboard file
+
+## Features
+- Total and average billing by department
+- Top doctors by patient visits
+- Interactive Tableau dashboard with filters
+
+## How to Run
+1. Install packages: `pip install -r requirements.txt`
+2. Open `notebooks/eda_numpy.ipynb` to explore data
+3. Run SQL queries in SQLite
+4. Open Tableau dashboard in Tableau Desktop
+
+
+
+
+
+## Tableau Dashboard
+View the interactive dashboard on Tableau Public:
+https://public.tableau.com/views/healthcare_data_17643587940680/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
+
+## Tableau Dashboard multiple visualizations
+https://public.tableau.com/views/healthcare_data_17643587940680/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
