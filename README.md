@@ -25,10 +25,6 @@ This project analyzes a synthetic dataset of healthcare practices using Python (
 
 
 
-## Tableau Dashboard
-View the interactive dashboard on Tableau Public:
-https://public.tableau.com/views/healthcare_data_17643587940680/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-
 
 
 ## Tableau Dashboard multiple visualizations
