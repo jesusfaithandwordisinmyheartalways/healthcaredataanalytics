@@ -3,6 +3,17 @@
 ## Overview
 This project analyzes a synthetic dataset of healthcare practices using Python (NumPy), SQL, and Tableau. 
 
+
+
+## Tableau Dashboard multiple visualizations
+https://public.tableau.com/views/healthcare_data_17643587940680/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
+
+
+
+
+
 ## Structure
 - `data/` - Excel dataset
 - `notebooks/` - NumPy EDA
@@ -26,9 +37,6 @@ This project analyzes a synthetic dataset of healthcare practices using Python (
 
 
 
-
-## Tableau Dashboard multiple visualizations
-https://public.tableau.com/views/healthcare_data_17643587940680/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
 
